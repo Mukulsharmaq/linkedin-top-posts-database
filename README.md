@@ -14,6 +14,15 @@
 - **[posts.csv](posts.csv)**: every post on one row, with a direct link, likes, comments, shares, format and length. GitHub shows it as a searchable table, so type a name to filter.
 - **[creators.csv](creators.csv)**: the 86 accounts, with each one's number of 100+ posts, median likes and comments, and best post.
 
+## Ask Claude
+1. Download [posts.csv](https://github.com/Mukulsharmaq/linkedin-top-posts-database/raw/main/posts.csv) (and [creators.csv](https://github.com/Mukulsharmaq/linkedin-top-posts-database/raw/main/creators.csv) if you want the account view).
+2. Open [claude.ai](https://claude.ai), attach the file and ask in plain words.
+
+Try these
+- Which 10 creators get the most comments per post, and which format do they use most?
+- In the last 3 months, do image posts beat text-only posts on comments?
+- Show me the 20 best posts under 100 words, with their links.
+
 ## What the 1,284 show
 These cover only posts that cleared 100 likes. They describe what wins; they don't explain why.
 
